@@ -1,0 +1,2 @@
+# Copybara
+Clipbord Manager
